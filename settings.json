@@ -6,7 +6,7 @@
     "type": "online"
   },
   "server": {
-    "ip": "KmcSanctuarysmp.aternos.me:51780",
+    "ip": "KmcSanctuarysmp.aternos.me",
     "port": 51780,
     "version": "",
     "try-creative": true
